@@ -1,0 +1,7 @@
+language: java
+script:
+ - javac Hello.java
+ - java Hello
+os: linux
+group: stable
+dist: trusty
