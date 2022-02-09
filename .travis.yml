@@ -4,4 +4,4 @@ script:
  - java Hello
 os: linux
 group: stable
-dist: trusty
+dist: rhel
